@@ -1,0 +1,9 @@
+
+
+
+
+COMO FAZER UMA ROTA ?
+
+- baixar o react router dom 
+- importe todos esses (BrowserRouter, Route, Routes, Navigate)
+para o componete chamado.
